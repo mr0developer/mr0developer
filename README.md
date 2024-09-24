@@ -1,12 +1,9 @@
 ## Hi there 👋 AsterDev Here.
 - 🔭 I’m currently a learner.
 - 🌱 I’m currently learning backend development.
-- 
--
 - 💬 Ask me about Python, HTML, CSS, Javascript, Angular, Node.js, PHP.
-
 - ⚡ Fun fact: Sleep literally cleans your brain. During slumber, more cerebrospinal fluid flushes through the brain to wash away harmful proteins and toxins that build up during the day.
-- 
+
 ## Where to find me
 <br>
 <div align="center">
