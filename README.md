@@ -23,6 +23,7 @@
         width="52%"
         src="https://github-readme-stats.vercel.app/api?username=mr0developer&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?    username=mr0developer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=1"   height="150" alt="languages graph"  />
     <img
         width="49%"
         src="https://github-readme-streak-stats.herokuapp.com?user=mr0developer&theme=tokyonight"
