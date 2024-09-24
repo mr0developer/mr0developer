@@ -19,12 +19,9 @@
 </picture>
 
 <p align="center">
-    <img
-        width="52%"
-        src="https://github-readme-stats.vercel.app/api?username=Guru322&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
-    />
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr0developer)](https://github.com/anuraghazra/github-readme-stats)
     <img
         width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=Guru322&theme=tokyonight"
+        src="https://github-readme-streak-stats.herokuapp.com?user=mr0developer&theme=tokyonight"
     />
 </p>
