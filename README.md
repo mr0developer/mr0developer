@@ -1,12 +1,11 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi there 👋 AsterDev Here.
+- 🔭 I’m currently a learner.
+- 🌱 I’m currently learning backend development.
+- 
+-
+- 💬 Ask me about Python, HTML, CSS, Javascript, Angular, Node.js, PHP.
+
+- ⚡ Fun fact: Sleep literally cleans your brain. During slumber, more cerebrospinal fluid flushes through the brain to wash away harmful proteins and toxins that build up during the day.
 - 
 ## Where to find me
 <br>
@@ -37,7 +36,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/mr0developer)
 
-##📈 My GitHub stats
+## 📈 My GitHub stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake-dark.svg">
