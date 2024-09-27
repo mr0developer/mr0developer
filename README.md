@@ -4,6 +4,8 @@
 - 💬 Ask me about Python, HTML, CSS, Javascript, Angular, Node.js, PHP.
 - ⚡ Fun fact: Sleep literally cleans your brain. During slumber, more cerebrospinal fluid flushes through the brain to wash away harmful proteins and toxins that build up during the day.
 
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmr0developer&label=VISITORS%20HERE%3A%20&countColor=%2337d67a)
+
 ## Where to find me
 <br>
 <div align="center">
