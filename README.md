@@ -1,4 +1,8 @@
 ## Hi there 👋 AsterDev Here.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3DF74E&center=true&vCenter=true&random=true&width=435&lines=SOFTWARE+ENGINEER;ARTIFICIAL+INTELLIGENCE;CYBERSECURITY;FULL-STACK+DEVELOPMENT)](https://git.io/typing-svg)
+
+
 - 🔭 I’m currently a learner.
 - 🌱 I’m currently learning backend development.
 - 💬 Ask me about Python, HTML, CSS, Javascript, Angular, Node.js, PHP.
@@ -44,6 +48,10 @@
 </picture>
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr0developer&theme=shadow_blue&layout=pie"width="58%"/> 
+</p>  
+
+<p align="center">
    <img
         width="52%"
         src="https://github-readme-stats.vercel.app/api?username=mr0developer&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
@@ -54,7 +62,7 @@
     />
 </p>
 
-### Technologies Used
+## Technologies Used
 
 
 <div align="left">
@@ -138,3 +146,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
 </div>
+
+
+---
+``` java
+
+if (isCodeWorking) {
+    while (codeQuality < perfection) {
+        codeQuality++; 
+    }
+}
+
+while(alive) {
+  eat();
+  sleep();
+  code();
+}
+```
